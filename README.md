@@ -1,3 +1,3 @@
 # hello-world
-This is a hello world. Say Hello!
-Today is a beautiful day!
+This is a hello world.Today is a beautiful day! Say Hello!
+
